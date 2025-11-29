@@ -108,15 +108,11 @@ http://localhost:8501
 
 | Name | Role |
 |------|------|
-| **Jeevitha Selvakumar** | Lead Developer & Analyst |
-| **Sakshi Chabra** | Research & Insights |
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** (optional).
+| **Jeevitha Selvakumar** | 
+| **Sakshi Chabra** | 
 
 ---
 
 ## ⭐ Support the Project
 If you found this project helpful, please **star the repository on GitHub!** 🌟
+
